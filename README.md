@@ -32,7 +32,6 @@
 
 
 
-
 ![Amazon_website_clone](https://github.com/user-attachments/assets/06fc5a34-27e5-4732-a824-221122d7ddec)
 
 
@@ -42,4 +41,9 @@ Contributions are welcome! If you find any bugs or have suggestions, feel free t
 
 # 🌟 Acknowledgments
 Special thanks to Amazon for providing an inspiring layout to replicate. This project is for educational purposes only and is not affiliated with Amazon.
+
+
+ # 📧 Contact
+
+gunaydinsemra34@gmail.com
 
