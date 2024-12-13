@@ -1,4 +1,5 @@
-# 🚀 Amazon_clone
+# 🚀 Amazon_clone ![AmazonPrimeGIF](https://github.com/user-attachments/assets/64f7c889-f89c-4c66-8b0c-00c052b9f3bf)
+
 - Welcome to the Amazon HTML Clone repository! This project is a replica of the Amazon website's interface, created using HTML and CSS. 
 - The design is fully responsive and localized in Turkish.
 
