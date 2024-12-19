@@ -29,9 +29,9 @@
   
 * 🎨 Flexbox for responsive design.
 * 💫 Animations and transitions for enhanced interactivity.
+
+
 # 📸 Preview
-
-
 
 ![Amazon_website_clone](https://github.com/user-attachments/assets/06fc5a34-27e5-4732-a824-221122d7ddec)
 
